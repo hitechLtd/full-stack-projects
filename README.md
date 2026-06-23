@@ -6,7 +6,7 @@ Each project is contained in its own folder and includes detailed documentation,
 
 ## Projects
 
-### 1. [OTP Verification System](.otp-verification-system/)
+### 1. [OTP Verification System](./otp-verification-system/)
 
 A full-stack OTP authentication that generates and sends a 4-digit OTP to a user's email address and verifies it using MongoDB and Nodemailer.
 
